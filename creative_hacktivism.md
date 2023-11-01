@@ -21,5 +21,6 @@ The concept of Creative Hacktivism finds its roots within the realm of internet 
 ##  Creative Hacktivism - examples of different projects 
 
 ### The Critical Engineering Manifesto 
+![critical engineering manifesto](/images/critical_engineering.pdf)
 
 [The Critical Engineering Manifesto](https://criticalengineering.org/en)

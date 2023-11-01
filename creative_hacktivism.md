@@ -20,7 +20,11 @@ The concept of Creative Hacktivism finds its roots within the realm of internet 
 
 ##  Creative Hacktivism - examples of different projects 
 
-### The Critical Engineering Manifesto 
+### The Critical Engineering Manifesto  
+
+**»When a machine runs efficiently, when the technology responds to the need we have when we use it, one need focus only on its inputs and outputs and not on its internal complexity. Thus, paradoxically, the more science and technology succeed, the more opaque and obscure they become.«**
+
+
 ![critical engineering manifesto](/images/critical_engineering.pdf)
 
 [The Critical Engineering Manifesto](https://criticalengineering.org/en)

@@ -1,9 +1,9 @@
 # Creative Hacktivism
 
-This OER is created with the material and the topics from the Creative Hacktivism webinar. The webinar is meant to provide participants an in-depth understanding of creative practice in the field of media Hacktivism and participation, bringing case studies of artists and activists, and of detailed processes and tools to critically design participation and cooperation through media. 
-The webinar was helt in September 2023 and consisted of two sessions, which can be found here:
-[Session 1](https://www.youtube.com/watch?v=8ALdeZOGo5o)
-[Session 2](https://www.youtube.com/watch?v=0xc6OA6SJAE)
+This OER is created with the material and the topics from the Creative Hacktivism webinar. The webinar is meant to provide participants an in-depth understanding of creative practice in the field of media Hacktivism and participation, bringing case studies of artists and activists, and of detailed processes and tools to critically design participation and cooperation through media.  
+The webinar was helt in September 2023 and consisted of two sessions, which can be found here:  
+* [Session 1](https://www.youtube.com/watch?v=8ALdeZOGo5o)
+* [Session 2](https://www.youtube.com/watch?v=0xc6OA6SJAE)
 
 ## Learning Objective 
 * Learn about forms and goals of Digital Activism and Hacking to inspire you to take actions in your online and offline community

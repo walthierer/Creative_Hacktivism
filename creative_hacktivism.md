@@ -1,4 +1,4 @@
-# Title of the Resource / Guide / etc.
+# Creative Hacktivism
 
 ## Introductory question:
 When you think of an activist, who or what comes to mind? 
@@ -18,3 +18,8 @@ The Creative Hacktivist merges the ethos of an artist and an activist to:
 
 The concept of Creative Hacktivism finds its roots within the realm of internet activism. Leveraging electronic communication technologies, including various online and digital tools, it strives to facilitate swifter and more efficient communication among grassroots movements. This involves generating ideas pertaining to potential movements, defining their positions, and highlighting causes that deserve public attention and support.
 
+##  Creative Hacktivism - examples of different projects 
+
+### The Critical Engineering Manifesto 
+
+[The Critical Engineering Manifesto](https://criticalengineering.org/en)

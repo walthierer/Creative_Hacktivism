@@ -2,8 +2,10 @@
 
 ## The Creative Hacktivist - composition of the term
 <p align="center" width="100%">
-  <img width="800" alt="critical engineering manifesto" src="images/creative_hacktivism_composition.jpg">
+  <img width="800" alt="The Creative Hacktivist" src="images/creative_hacktivism_composition.jpg">
 </p>
+<p align="center" width="100%">
+  <em>The Creative Hacktivist - composition of the term</em></p>
 
 The Creative Hacktivist combines technology and art to:
 * Criticize the way technology is used by people.
@@ -32,19 +34,18 @@ In light of Bruno Latour's statement, let's consider the scenario where there is
 
 <p align="center" width="100%">
   <img width="560" alt="critical engineering manifesto" src="images/critial_engineer_manifesto.png">
-  <em>The Critical Engineering Manifesto</em>
 </p>
 <p align="center" width="100%">
   <em>The Critical Engineering Manifesto</em></p>
 
 Two very important quotes from the Manifesto:
 ```
-0. The Critical Engineer considers Engineering to be the most transformative language of our time,
+1. The Critical Engineer considers Engineering to be the most transformative language of our time,
 shaping the way we move, communicate and think. It is the work of the Critical Engineer to study
 and exploit this language, exposing its influence.
 ```
 ```
-5. The Critical Engineer recognises that each work of engineering engineers its user,
+1. The Critical Engineer recognises that each work of engineering engineers its user,
 proportional to that user's dependency upon it.
 ```
 The manifesto defines today's engineering, especially in the digital realm, and elucidates the responsibilities of a Critical Engineer.

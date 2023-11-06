@@ -32,11 +32,11 @@ In light of Bruno Latour's statement, let's consider the scenario where there is
 
 
 <p align="center" width="100%">
-  <img width="800" alt="critical engineering manifesto" src="images/critial_engineer_manifesto.png">
+  <img width="400" alt="critical engineering manifesto" src="images/critial_engineer_manifesto.png">
 </p>
 
 
-![critical engineering manifesto](/images/critial_engineer_manifesto.png)
+![critical engineering manifesto](images/critial_engineer_manifesto.png)
 
 Two very important quotes from the Manifesto:
 ```

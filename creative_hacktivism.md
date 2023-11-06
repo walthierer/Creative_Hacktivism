@@ -18,6 +18,7 @@ The Creative Hacktivist merges the ethos of an artist and an activist to:
 The concept of Creative Hacktivism finds its roots within the realm of internet activism. Leveraging electronic communication technologies, including various online and digital tools, it strives to facilitate swifter and more efficient communication among grassroots movements. This involves generating ideas pertaining to potential movements, defining their positions, and highlighting causes that deserve public attention and support.
 
 ##  Creative Hacktivism - examples of different projects 
+The following paragraphs show diverse examples of Creative Hacktivism and its related topics. 
 
 ### The Critical Engineering Manifesto  
 
@@ -67,5 +68,18 @@ The map can be found [here](https://anatomyof.ai/).
 
 ### Climate Action
 #### Per Million
+<p align="center" width="100%">
+  <img width="800" alt="per million protest" src="images/permillion.jpg">
+</p>
 
+"Both protest tool and measurement reference, Per Million centers what may be the most important number of our time: the amount, in parts-per-million, of carbon dioxide in our planet’s atmosphere."
 
+The project can be found [here](https://permillion.live/).
+
+### Online and offline mobilisation 
+#### XR - Extinction rebellion
+<p align="center" width="100%">
+  <img width="400" alt="symbol of Extinction Rebellion" src="images/Extinction_Symbol.png">
+</p>
+
+Extinction Rebellion (abbreviated as XR) is a global environmental movement founded in the UK. Its stated goal is to use nonviolent civil disobedience to pressure governments into taking action to prevent tipping points in the climate system, biodiversity loss, and the risk of social and ecological collapse.

@@ -1,8 +1,5 @@
 # Creative Hacktivism
 
-## Introductory question:
-When you think of an activist, who or what comes to mind? 
-
 ## The Creative Hacktivist - composition of the term
 <p align="center" width="100%">
   <img width="800" alt="critical engineering manifesto" src="images/creative_hacktivism_composition.jpg">
@@ -48,3 +45,23 @@ proportional to that user's dependency upon it.
 ```
 The manifesto defines today's engineering, especially in the digital realm, and elucidates the responsibilities of a Critical Engineer.
 The manifesto can be found [here](https://criticalengineering.org/en).
+
+### Internet and Privacy 
+#### Hacking can be ethical
+»The term Hacker has acquired a very negative sub meaning in the last decades, while it actually describes only a researcher, having a deep interaction with a computer in order to extract as much as possible from it.«
+by Danja Vasilev
+
+In his presentation from 2019, Danja Vasiliev discusses "dark internet topologies" in the context of a collaborative project called Vending Private Network with Julian Oliver. Instead of viewing the internet as a digital common or public space, Vasiliev uses network administrator tools to reveal a significant level of privatization. He suggests that we need new "dark abstractions" to create the kind of public space we envision on the internet. In essence, he demonstrates that "darknets" are technical counterparts to the rights and structures we cherish and protect in our physical public lives.
+
+The presentation can be found [here](https://www.youtube.com/watch?v=C3DhUPT5k1Q).
+
+#### Anatomy of an AI System
+<p align="center" width="100%">
+  <img width="800" alt="critical engineering manifesto" src="images/anatomy_of_ai.png">
+</p>
+
+Kate Crawford and Vladan Joler describe the Amazon Echo as an anatomical map of human labor, data and planetary resources. 
+They examine the extensive networks supporting the entire lifecycle of a single Amazon Echo smart speaker, summarizing this large amount of information into a detailed diagram, accompanied by an essay in 21 parts. Together, this becomes an anatomical map of a single AI system.
+
+The map can be found [here](https://anatomyof.ai/).
+

@@ -98,7 +98,6 @@ Image: Extinction Rebellion Symbol
 Extinction Rebellion (abbreviated as XR) is a global environmental movement founded in the UK. Its stated goal is to use nonviolent civil disobedience to pressure governments into taking action to prevent tipping points in the climate system, biodiversity loss, and the risk of social and ecological collapse.
 
 #### #MeToo Movement 
-
 <p align="center" width="100%">
   <img width="300" alt="#metoo protest" src="images/metoo_protest.jpg">
 </p>
@@ -106,3 +105,14 @@ Extinction Rebellion (abbreviated as XR) is a global environmental movement foun
   <em>Alec Perkins from Hoboken, USA - Can You Hear Me Now? #MeToo</em></p>
 
 The #MeToo movement is a social movement that began in 2017, originally on social media. It aims to raise awareness about the prevalence of sexual harassment and assault, particularly in the workplace. People, mainly women, shared their personal experiences using the hashtag #MeToo to show the widespread nature of such incidents. The movement seeks to empower survivors, hold perpetrators accountable, and foster a culture of respect and equality. It has had a significant impact on public discourse, advocacy, and policies related to sexual harassment and assault.
+
+#### Black Lives Matters
+
+<p align="center" width="100%">
+  <img width="800" alt="Black Lives Matter protest" src="images/Black_Lives_Matter_protest.jpg">
+</p>
+<p align="center" width="100%">
+  <em>Fibonacci Blue from Minnesota, USA - Black Lives Matter protest against St. Paul police brutality</em></p>
+
+The Black Lives Matter (BLM) movement is a social and civil rights movement that originated in the United States. It focuses on addressing systemic racism, particularly the unjust treatment of Black individuals by law enforcement and within the broader society. BLM advocates for equality, justice, and an end to police brutality against Black people. The movement gained prominence through protests, advocacy, and public awareness campaigns, aiming to bring about social and policy changes to ensure the fair treatment and protection of Black lives.
+

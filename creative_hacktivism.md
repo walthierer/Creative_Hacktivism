@@ -32,7 +32,10 @@ In light of Bruno Latour's statement, let's consider the scenario where there is
 
 <p align="center" width="100%">
   <img width="560" alt="critical engineering manifesto" src="images/critial_engineer_manifesto.png">
+  <em>The Critical Engineering Manifesto</em>
 </p>
+<p align="center" width="100%">
+  <em>The Critical Engineering Manifesto</em></p>
 
 Two very important quotes from the Manifesto:
 ```
@@ -58,8 +61,10 @@ The presentation can be found [here](https://www.youtube.com/watch?v=C3DhUPT5k1Q
 
 #### Anatomy of an AI System
 <p align="center" width="100%">
-  <img width="800" alt="critical engineering manifesto" src="images/anatomy_of_ai.png">
+  <img width="800" alt="Anatomy of an AI System" src="images/anatomy_of_ai.png">
 </p>
+<p align="center" width="100%">
+  <em>Anatomy of an AI System</em></p>
 
 Kate Crawford and Vladan Joler describe the Amazon Echo as an anatomical map of human labor, data and planetary resources. 
 They examine the extensive networks supporting the entire lifecycle of a single Amazon Echo smart speaker, summarizing this large amount of information into a detailed diagram, accompanied by an essay in 21 parts. Together, this becomes an anatomical map of a single AI system.
@@ -71,6 +76,8 @@ The map can be found [here](https://anatomyof.ai/).
 <p align="center" width="100%">
   <img width="800" alt="per million protest" src="images/permillion.jpg">
 </p>
+<p align="center" width="100%">
+  <em>Per million protest</em></p>
 
 "Both protest tool and measurement reference, Per Million centers what may be the most important number of our time: the amount, in parts-per-million, of carbon dioxide in our planet’s atmosphere."
 
@@ -79,7 +86,22 @@ The project can be found [here](https://permillion.live/).
 ### Online and offline mobilisation 
 #### XR - Extinction rebellion
 <p align="center" width="100%">
-  <img width="400" alt="symbol of Extinction Rebellion" src="images/Extinction_Symbol.png">
+  <img width="300" alt="symbol of Extinction Rebellion" src="images/Extinction_Symbol.png">
 </p>
+<p align="center" width="100%">
+  <em>Extinction Rebellion Symbol</em></p>
+
+
+Image: Extinction Rebellion Symbol
 
 Extinction Rebellion (abbreviated as XR) is a global environmental movement founded in the UK. Its stated goal is to use nonviolent civil disobedience to pressure governments into taking action to prevent tipping points in the climate system, biodiversity loss, and the risk of social and ecological collapse.
+
+#### #MeToo Movement 
+
+<p align="center" width="100%">
+  <img width="300" alt="#metoo protest" src="images/metoo_protest.jpg">
+</p>
+<p align="center" width="100%">
+  <em>Alec Perkins from Hoboken, USA - Can You Hear Me Now? #MeToo</em></p>
+
+The #MeToo movement is a social movement that began in 2017, originally on social media. It aims to raise awareness about the prevalence of sexual harassment and assault, particularly in the workplace. People, mainly women, shared their personal experiences using the hashtag #MeToo to show the widespread nature of such incidents. The movement seeks to empower survivors, hold perpetrators accountable, and foster a culture of respect and equality. It has had a significant impact on public discourse, advocacy, and policies related to sexual harassment and assault.

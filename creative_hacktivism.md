@@ -1,4 +1,15 @@
-# Creative Hacktivism
+# Introduction to Creative Hacktivism
+
+In particular, the first session “Introduction to Creative Hacktivism” was divided in two parts: one frontal and one interactive together with a guest speaker. The first introductory part presented a roundup of Creative Hacktivism projects from around the world, aiming at allowing participants to learning about: 
+
+* Forms and goals of Digital Activism and Hacking to inspire action taking in online and offline communities
+* creative forms of peaceful protests that can invigorate communities and generate collaboration. 
+
+The frontal session also aimed at raising awareness of the hidden side of the technology we daily use, bringing examples of “technological black boxes” that - by performing seamless experiences for the users - are in the background feeding systems of exploitment and surveillance. The session aimed also at sharing toolkits for growing technological literacy during media and the internet navigation, and providing actionable resources that can help validate information and investigate topics. 
+
+This document provides only a summary of the initial segment of the webinar. You can access the complete webinar recording [here](https://www.youtube.com/watch?v=8ALdeZOGo5o).
+
+The second segment of the webinar welcomed the presence of a guest speaker from Kampala: the Ugandan musician, DIY synth maker, and entrepreneur Brian Bamanya, also known for his debut album and hardware platform ¢[Afrorack](https://www.arturia.com/stories/brian-bamanya). 
 
 ## The Creative Hacktivist - composition of the term
 <p align="center" width="100%">
@@ -160,7 +171,7 @@ The "Bhopal Hoax" can be found [here](https://www.youtube.com/watch?v=LiWlvBro9e
 ## Media and Investigations Literacy 
 
 <p align="center" width="100%">
-  <img width="400" alt="sPope Francis in puffy winter jacket AI-Created" src="images/Pope_Francis_in_puffy_winter_jacket.jpg">
+  <img width="400" alt="Pope Francis in puffy winter jacket AI-Created" src="images/Pope_Francis_in_puffy_winter_jacket.jpg">
 </p>
 <p align="center" width="100%">
   <em>Pope Francis in puffy winter jacket AI-Created: 23 May 2023</em></p>
@@ -170,7 +181,7 @@ The "Bhopal Hoax" can be found [here](https://www.youtube.com/watch?v=LiWlvBro9e
  ### Digital Enquirer Kit
 
 <p align="center" width="100%">
-  <img width="800" alt="screenshot of defaced chinese website" src="images/digital_enquirer_kit.png">
+  <img width="800" alt="screenshot of Digital Enquirer Kit" src="images/digital_enquirer_kit.png">
 </p>
 <p align="center" width="100%">
   <em>Screenshot - Digital Enquirer Kit e-learning course</em></p>
@@ -192,3 +203,18 @@ The first four modules have been authored by Tactical Tech:
 * Module 4: Examining and Sharing Your Findings
 
 The Digital Enquirer Kit can be found [here](https://digitalenquirer.org/)
+
+### Exposing the Invisible - The Kit
+
+<p align="center" width="100%">
+  <img width="600" alt="Logo of Exposing the Invisible - The Kit" src="images/kit-banner.jpg">
+</p>
+<p align="center" width="100%">
+  <em>Exposing the Invisible - The Kit</em></p>
+
+Exposing the Invisible's Kit, part of Tactical Tech's project, is a user's guide for investigating information. It offers methods for verifying, uncovering, and filtering information, from scraping websites to supply chain investigation. It's a resource for those seeking truth, from uncovering corruption to understanding local communities, promoting safe and thorough investigative techniques.
+
+The content was developed collectively by a group of researchers, activists, journalists, developers, artists and others eager to share knowledge on how to conduct investigations using a wide range of skills, tools and techniques.
+
+The Exposing the Invisible kit can be found [here](https://kit.exposingtheinvisible.org/en/)
+

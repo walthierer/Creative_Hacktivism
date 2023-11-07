@@ -51,12 +51,12 @@ In light of Bruno Latour's statement, let's consider the scenario where there is
 
 Two very important quotes from the Manifesto:
 ```
-1. The Critical Engineer considers Engineering to be the most transformative language of our time,
+0. The Critical Engineer considers Engineering to be the most transformative language of our time,
 shaping the way we move, communicate and think. It is the work of the Critical Engineer to study
 and exploit this language, exposing its influence.
 ```
 ```
-1. The Critical Engineer recognises that each work of engineering engineers its user,
+5. The Critical Engineer recognises that each work of engineering engineers its user,
 proportional to that user's dependency upon it.
 ```
 The manifesto defines today's engineering, especially in the digital realm, and elucidates the responsibilities of a Critical Engineer.

@@ -12,6 +12,6 @@ The webinar was helt in September 2023 and consisted of two sessions, which can 
 * Learn about creative forms of peaceful protests that can invigorate your communities and generate collaboration
 * Learn about resources that can help validate information and investigate topics
 
-## #ASKnet Logo 
+Link to the [Introduction to Creative Hacktivism](/introduction_to_creative_hacktivism.md).
 
 ![ASKnet Logo](/images/asknet-logo.png)

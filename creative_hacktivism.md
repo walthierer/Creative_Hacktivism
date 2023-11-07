@@ -2,7 +2,7 @@
 
 ## The Creative Hacktivist - composition of the term
 <p align="center" width="100%">
-  <img width="800" alt="The Creative Hacktivist" src="images/creative_hacktivism_composition.jpg">
+  <img width="700" alt="The Creative Hacktivist" src="images/creative_hacktivism_composition.jpg">
 </p>
 <p align="center" width="100%">
   <em>The Creative Hacktivist - composition of the term</em></p>
@@ -84,7 +84,9 @@ The map can be found [here](https://anatomyof.ai/).
 
 The project can be found [here](https://permillion.live/).
 
-### Online and offline mobilisation 
+### Online and Offline Mobilisation 
+The following examples illustrate three movements that utilized various online media to educate and mobilize people.
+
 #### XR - Extinction rebellion
 <p align="center" width="100%">
   <img width="300" alt="symbol of Extinction Rebellion" src="images/Extinction_Symbol.png">
@@ -93,11 +95,10 @@ The project can be found [here](https://permillion.live/).
   <em>Extinction Rebellion Symbol</em></p>
 
 
-Image: Extinction Rebellion Symbol
-
 Extinction Rebellion (abbreviated as XR) is a global environmental movement founded in the UK. Its stated goal is to use nonviolent civil disobedience to pressure governments into taking action to prevent tipping points in the climate system, biodiversity loss, and the risk of social and ecological collapse.
 
 #### #MeToo Movement 
+
 <p align="center" width="100%">
   <img width="300" alt="#metoo protest" src="images/metoo_protest.jpg">
 </p>
@@ -116,3 +117,32 @@ The #MeToo movement is a social movement that began in 2017, originally on socia
 
 The Black Lives Matter (BLM) movement is a social and civil rights movement that originated in the United States. It focuses on addressing systemic racism, particularly the unjust treatment of Black individuals by law enforcement and within the broader society. BLM advocates for equality, justice, and an end to police brutality against Black people. The movement gained prominence through protests, advocacy, and public awareness campaigns, aiming to bring about social and policy changes to ensure the fair treatment and protection of Black lives.
 
+### Website Defacement, Subvertising and Pranks
+
+#### Anonymous
+
+<p align="center" width="100%">
+  <img width="800" alt="screenshot of defaced chinese website" src="images/anonymous_web.jpg">
+</p>
+<p align="center" width="100%">
+  <em>BBC - Defaced pages urged Chinese people to stage their own protests</em></p>
+
+Website defacement is the unauthorized alteration of the visual appearance or content of a website, often for political or hacktivist purposes.  
+
+In April 2012, Anonymous hacked 485 Chinese government websites, some more than once, to protest the treatment of their citizens. They urged people to "fight for justice, fight for freedom, [and] fight for democracy"
+
+More information can be found [here](https://www.bbc.com/news/technology-17623939).
+
+#### Brandalism
+
+<p align="center" width="100%">
+  <img width="800" alt="screenshot of defaced chinese website" src="images/brandalims.jpeg">
+</p>
+<p align="center" width="100%">
+  <em>02 Lindsay Grime Lufthansa subvert London 22 Sep 2022 </em></p>
+
+Subvertising is a form of culture jamming or guerrilla art that involves altering or satirizing advertisements, often in public spaces, to convey a critical or subversive message. It's a way of using advertising against itself to challenge consumerism or social issues.
+
+"After a summer of record breaking temperatures exacerbated by global heating, advertising billboards across Europe have been hacked with more than 500 satirical artworks, unveiled today, to highlight the role of airline marketing in driving up greenhouse gas emissions. Campaigners are calling on the EU Commission to introduce tobacco-style advertising bans to curb demand on flights and prevent emissions from rising further."  
+
+More information can be found [here](http://brandalism.ch/projects/airlines-airports/).

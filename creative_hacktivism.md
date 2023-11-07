@@ -136,7 +136,7 @@ More information can be found [here](https://www.bbc.com/news/technology-1762393
 #### Brandalism
 
 <p align="center" width="100%">
-  <img width="800" alt="screenshot of defaced chinese website" src="images/brandalims.jpeg">
+  <img width="800" alt="Lufthansa subvert London 22 Sep 2022" src="images/brandalims.jpeg">
 </p>
 <p align="center" width="100%">
   <em>02 Lindsay Grime Lufthansa subvert London 22 Sep 2022 </em></p>
@@ -146,3 +146,49 @@ Subvertising is a form of culture jamming or guerrilla art that involves alterin
 "After a summer of record breaking temperatures exacerbated by global heating, advertising billboards across Europe have been hacked with more than 500 satirical artworks, unveiled today, to highlight the role of airline marketing in driving up greenhouse gas emissions. Campaigners are calling on the EU Commission to introduce tobacco-style advertising bans to curb demand on flights and prevent emissions from rising further."  
 
 More information can be found [here](http://brandalism.ch/projects/airlines-airports/).
+
+#### The Yes Men
+
+The Yes Men are a group of political activists and pranksters known for their satirical and creative actions to raise awareness about social and environmental issues. They impersonate powerful entities and corporations, often making statements or promises that draw attention to issues like corporate greed, environmental degradation, and social justice.
+
+The "Bhopal Hoax" is a specific action by The Yes Men. In December 2004, they appeared on the BBC World Service posing as representatives of Dow Chemical, which had acquired Union Carbide, the company responsible for the Bhopal gas disaster in 1984. During the interview, they announced that Dow would take full responsibility for the Bhopal disaster and would compensate the victims. This was, of course, a hoax designed to draw attention to the ongoing lack of justice and compensation for the Bhopal disaster survivors.
+
+The Yes Men's actions are intended to provoke thought and discussion on critical issues, often by using humor and satire to reveal the absurdity of certain corporate or political practices.
+
+The "Bhopal Hoax" can be found [here](https://www.youtube.com/watch?v=LiWlvBro9eI)
+
+## Media and Investigations Literacy 
+
+<p align="center" width="100%">
+  <img width="400" alt="sPope Francis in puffy winter jacket AI-Created" src="images/Pope_Francis_in_puffy_winter_jacket.jpg">
+</p>
+<p align="center" width="100%">
+  <em>Pope Francis in puffy winter jacket AI-Created: 23 May 2023</em></p>
+
+ In May 2023, a fabricated image created by Midjourney depicting Pope Francis donning a puffer jacket gained significant traction, with many viewers mistaking it for a genuine photograph. This incident underscores the importance of fostering media and investigative literacy skills to discern the authenticity of content in an era where misinformation and manipulated visuals can easily deceive.
+
+ ### Digital Enquirer Kit
+
+<p align="center" width="100%">
+  <img width="800" alt="screenshot of defaced chinese website" src="images/digital_enquirer_kit.png">
+</p>
+<p align="center" width="100%">
+  <em>Screenshot - Digital Enquirer Kit e-learning course</em></p>
+
+ The Digital Enquirer Kit is an e-learning course that guides learners through lessons on how to prevent the spread of misinformation, available on the free platform atingi.org. The course covers topics including media literacy, verification, and how to navigate the internet safely.
+
+The Digital Enquirer Kit is available in English (including West African, East African, South African, and Southeast Asian dialects), Arabic, Bahasa Indonesian, Brazilian Portuguese, French, Hausa, Hindi, Sinhala, and Swahili, among other languages. 
+
+The Digital Enquirer Kit is interesting for:
+* Journalists, Researchers, investigators and evidence seekers
+* Civil society organisations and rights groups
+* Experts & decision-makers
+* Other organisations or individuals interested in building and expand their skills in verification
+
+The first four modules have been authored by Tactical Tech:
+* Module 1: Identifying and Responding to Misinformation
+* Module 2: Verifying Online Information
+* Module 3: Collaborating on and Documenting Your Digital Enquiry
+* Module 4: Examining and Sharing Your Findings
+
+The Digital Enquirer Kit can be found [here](https://digitalenquirer.org/)

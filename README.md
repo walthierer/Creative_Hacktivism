@@ -1,5 +1,6 @@
 # Creative Hacktivism
 
+Disruption Network Lab, the non-profit Berlin-based ongoing platform of events and research focused on the intersection of politics, technology and society, presents a two days of remote learning program on Creative Hacktivism. 
 This OER is created with the material and the topics from the Creative Hacktivism webinar. The webinar is meant to provide participants an in-depth understanding of creative practice in the field of media Hacktivism and participation, bringing case studies of artists and activists, and of detailed processes and tools to critically design participation and cooperation through media.  
 The webinar was helt in September 2023 and consisted of two sessions, which can be found here:  
 * [Session 1](https://www.youtube.com/watch?v=8ALdeZOGo5o)

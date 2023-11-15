@@ -1,8 +1,37 @@
 # Cooperate and Collaborate with Convivial Technologies
 
-In the second session of the Creative Hacktivism Webinar, guest speaker Stella Nyanzi shared her experiences and insights in the realm of digital activism, offering participants a unique perspective on technology's role in social change. Following this, Agnese Trocchi led a collaborative exercise that explored the concept of hacking and introduced various practical and valuable digital tools. The session emphasized creative problem-solving and innovative approaches, equipping participants with strategies for community organizing and collaboration while considering the distinctive characteristics of each tool. 
+In the dynamic second session of the Creative Hacktivism Webinar, Agnese Trocchi led an exploration into hacking, digital design, and the concepts of affordance and nudging. Special guest Stella Nyanzi, a prominent Ugandan academic and activist, shared her experiences in digital activism and social media campaigns. The session featured a collaborative exercise emphasizing creative problem-solving, introducing practical digital tools for community organizing. The interactive Q&A with Stella delved into local events, sparking discussions on alternative digital tools and best practices for safeguarding campaigns on social media. This webinar left participants inspired and equipped to leverage creative hacktivism for positive social impact.
 
-vs.
+Find the Case Study to Stella Nyanzis forms of protest [here](/stella_nyanzi.md). 
 
-In the second webinar, we delved more deeply into the concept of hacking and digital design to become familiar with the notions of affordance and nudging used in behavioral economics. 
-Special guest of the session was Ugandan academic, activist, artist, and agitator Stella Nyanzi who spoke about her digital activism and social media campaigns. The Q&A with Stella addressed local events that we weren’t aware of, people were curious to know more from her, then we started discussing alternative tools for digital actions and best practices to protect our campaigns on social media.
+## List of Tools / Software / Resources
+### Friendly servers for email, blogs & other services:
+* https://riseup.net/en
+* https://noblogs.org/
+
+### Another social is possible 
+* Mastodon (social) https://joinmastodon.org/ 
+* Gancio (events) https://gancio.cisti.org/ 
+* Blob (network) https://zecche.org/ 
+* PeerTube https://joinpeertube.org/ 
+
+### Organize and collaborate 
+* Nextcloud https://nextcloud.com/sign-up/ 
+* Pad: https://github.com/ether/etherpad-lite/wiki/Sites-That-Run-Etherpad
+* Protectedtext - https://www.protectedtext.com 
+
+### Learn more on security when using your mobile phone:
+https://telefonisicuri.noblogs.org/files/2023/08/mobile-phone-security-1.pdf
+
+### Communicate 
+* Jitsi https://framatalk.org/abc/it/ 
+* Jitsi: https://vc.autistici.org/
+
+### Resources for everything 
+* https://degooglisons-internet.org/en/
+
+### Bibliography:
+* Martino Morando, Padology https://march.international/constant-padology/
+* Agnese Trocchi, Internet, Mon Amour https://ima.circex.org/en
+* Carlo Milani, Tecnologie Conviviali, https://tc.eleuthera.it (Italian only)
+* Critical Engineering Manifesto: https://criticalengineering.org

@@ -29,6 +29,10 @@ The webinar was helt in September 2023 and consisted of two sessions, which can 
 ### Links to the related documents:
 * [Introduction to Creative Hacktivism](/introduction_to_creative_hacktivism.md)
 * [Case Study Stella Nyanzi](/stella_nyanzi.md).
-* [Cooperate and Collaborate with Convivial Technologies](/cooperate_collaborate_technologies.md).
+* [Cooperate and Collaborate with Convivial Technologies](/cooperate_collaborate_technologies.md).  
+  
+<p align="center" width="100%">
+  <img width="400" alt="Kids futuristic technologie like dressed" src="images/asknet-logo.png">
+</p>
 
-![ASKnet Logo](/images/asknet-logo.png)
+ 

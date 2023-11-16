@@ -1,5 +1,4 @@
 # Cooperate and Collaborate with Convivial Technologies
-
 In the dynamic second session of the Creative Hacktivism Webinar, Agnese Trocchi led an exploration into hacking, digital design, and the concepts of affordance and nudging. Special guest Stella Nyanzi, a prominent Ugandan academic and activist, shared her experiences in digital activism and social media campaigns. The session featured a collaborative exercise emphasizing creative problem-solving, introducing practical digital tools for community organizing. The interactive Q&A with Stella delved into local events, sparking discussions on alternative digital tools and best practices for safeguarding campaigns on social media. This webinar left participants inspired and equipped to leverage creative hacktivism for positive social impact.
 
 Find the Case Study to Stella Nyanzis forms of protest [here](/stella_nyanzi.md). 
@@ -7,7 +6,6 @@ Find the Case Study to Stella Nyanzis forms of protest [here](/stella_nyanzi.md)
 geht weiter bei 54:50 min. riseup pad wird vorgestellt
 
 ## What is a Hacker and what does a Hacker do?
-
 _Hacking is finding and building your own path, your own way to deal with digital worlds._
 
 <p align="center" width="100%">
@@ -22,7 +20,6 @@ _Hacking is finding and building your own path, your own way to deal with digita
 * **Share and collaborate:** Fostering the creation of new knowledge is essential; share what you notice or discover.
 
 ## Technologies of Domination
-
 _We love using digital tools; each tool grants us unique abilities, but the way we use these powers is not always within our control._ 
 
 <p align="center" width="100%">
@@ -32,7 +29,6 @@ _We love using digital tools; each tool grants us unique abilities, but the way 
   <em>Image seen in a secondary school in the north of Italy. Translation: It’s up to you</em></p>
 
 ### Is it really up to you? 
-
 Zoom, Telegram, Facebook, YouTube, Tiktok… Each platform is designed in a certain way…
 
 * Reproduces the culture of its creators.
@@ -52,7 +48,6 @@ License: CC 4.0 (BY-NC-SA)
 
 ## Convivial Technologies
 ### What is conviviality?
-
 <p align="center" width="100%">
   <img width="700" alt="Pieter Bruegel the Younger, The Wedding Feast" src="images/feast.jpg">
 </p>
@@ -60,15 +55,28 @@ License: CC 4.0 (BY-NC-SA)
   <em>Pieter Bruegel the Younger, The Wedding Feast</em></p>
 
 * Dynamic, plural and changeable 
-* Neither chaos nor order, written in a rigid schedule 
+* Neither chaos nor order, nor written in a rigid schedule 
 * Not done in solitude 
 
 ### What is a Convivial Technology? 
-
 * It's situated: assume and declare its position in the world.
 * It tends to a fair and equal distribution of shares.
 * It's FREE as Free Software: everyone can modify and improve; it belongs to the lineage of freedom.
 
+_**“[. . . ] but above all, we need to devise methods of convivial collaboration that are concrete and easy to implement. To do this, we must learn to select the appropriate characteristics to develop conviviality, both in human beings and in technical beings.”**_  
+From: [Carlo Milani, Elèuthera, 2023](https://tc.eleuthera.it) 
+
+## TAKE ACTION
+### Creative Hacktivism on Social Media
+Be aware of Social media affordances. Protect yourself, your contents and your community. 
+* You don't own the platform. Other forces control it, their goals are not your goals, your profile or your posts could be deleted any time or they may not being delivered to the people. 
+* It's not easy to become viral.
+
+### Good Practices
+When you start a social media campaign: 
+* Create a website (it's under your control), all your communications should converge there 
+* Automate the posting using a bot: let the bots do the work 
+* Always make a backup of all your contacts (FB backup doesn't work) 
 
 ## List of Tools / Software / Resources
 ### Friendly servers for email, blogs & other services:

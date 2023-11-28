@@ -79,6 +79,7 @@ When you start a social media campaign:
 * Always make a backup of all your contacts (FB backup doesn't work) 
 
 ## List of alternative Tools / Software / Resources
+The list comprises alternative tools and resources for various purposes.
 ### Friendly servers for email, blogs & other services:
 * https://riseup.net/en  
     It's an instance of Etherpad Lite, a platform ensuring privacy as it operates outside Google's awareness. No login is required, and users can participate anonymously. Contributions are made at an equal level, and although deletions are possible, the data persists, mirroring the permanence of online content. Users can access the author versions' history by clicking on the clock icon with the anti-clockwise arrow.

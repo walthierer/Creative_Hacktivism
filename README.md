@@ -22,7 +22,7 @@ This OER is created with the material and the topics from the Creative Hacktivis
 
 ## Webinar as a resource
 ### Recordings
-The webinar was helt in September 2023 and consisted of two sessions, which can be found here:  
+The webinar was held in September 2023 and can be found here:  
 * [Session 1](https://www.youtube.com/watch?v=8ALdeZOGo5o)
 * [Session 2](https://www.youtube.com/watch?v=0xc6OA6SJAE)
 

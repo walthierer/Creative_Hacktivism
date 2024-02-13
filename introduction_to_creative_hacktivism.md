@@ -1,11 +1,11 @@
 # Introduction to Creative Hacktivism
 
-In particular, the first session “Introduction to Creative Hacktivism” was divided in two parts: one frontal and one interactive together with a guest speaker. The first introductory part presented a roundup of Creative Hacktivism projects from around the world, aiming at allowing participants to learning about: 
+In particular, the first session “Introduction to Creative Hacktivism” was divided in two parts: one presentation and one interactive together with a guest speaker. The first introductory part presented a roundup of Creative Hacktivism projects from around the world, aiming at allowing participants to learning about: 
 
 * Forms and goals of Digital Activism and Hacking to inspire action taking in online and offline communities
 * creative forms of peaceful protests that can invigorate communities and generate collaboration. 
 
-The frontal session also aimed at raising awareness of the hidden side of the technology we daily use, bringing examples of “technological black boxes” that - by performing seamless experiences for the users - are in the background feeding systems of exploitment and surveillance. The session aimed also at sharing toolkits for growing technological literacy during media and the internet navigation, and providing actionable resources that can help validate information and investigate topics. 
+The presentation also aimed at raising awareness of the hidden side of the technology we daily use, bringing examples of “technological black boxes” that - by performing seamless experiences for the users - are in the background feeding systems of exploitment and surveillance. The session aimed also at sharing toolkits for growing technological literacy during media and the internet navigation, and providing actionable resources that can help validate information and investigate topics. 
 
 This document provides only a summary of the initial segment of the webinar. You can access the complete webinar recording [here](https://www.youtube.com/watch?v=8ALdeZOGo5o).
 
